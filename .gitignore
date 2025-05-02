@@ -75,3 +75,5 @@ venv.bak/
 .pypirc
 
 .vscode
+
+spark_data
