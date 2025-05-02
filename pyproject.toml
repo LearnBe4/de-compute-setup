@@ -1,5 +1,5 @@
 [project]
-name = "de-compute-setup"
+name = "de-compute-playground"
 version = "0.1.0"
 description = "Basic setup for spark and jupyter notebook"
 authors = [
